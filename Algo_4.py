@@ -47,7 +47,7 @@ if target_in_array == False
             print[index + 1]
 
 """
-nums = [1,3,5,6], target = 5
+# nums = [1,3,5,6], target = 5
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
